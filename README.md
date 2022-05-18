@@ -1,10 +1,17 @@
-# Getting Started with Create React App
+Hello, my name is Vitória Sousa and this application is a SWR POC, here we can learn about the Data fetching using React Hooks, I did one example using on the init and one fetching when a button is clicked.
+Follow the text below to get started! I hope you like it and can learn from me :D
+
+# Getting Started with SWR POC
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install all the dependecies and libraries.
 
 ### `npm start`
 
